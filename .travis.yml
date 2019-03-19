@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode10.1
+os: osx
+xcode_project: essaiTra.xcodeproj #3
+xcode_scheme: essaiTra #4
