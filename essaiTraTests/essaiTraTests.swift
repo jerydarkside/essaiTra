@@ -23,9 +23,9 @@ class essaiTraTests: XCTestCase {
         XCTAssert(true)
     }
 
-//    func testExample2() {
-//        XCTAssert(false)
-//    }
+    func testExample2() {
+        XCTAssert(false)
+    }
 
     func testPerformanceExample() {
         // This is an example of a performance test case.
